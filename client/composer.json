@@ -1,0 +1,12 @@
+{
+    "name": "michael/hypernova-client",
+    "authors": [
+        {
+            "name": "Michaël Perrin",
+            "email": "contact@michaelperrin.fr"
+        }
+    ],
+    "require": {
+        "wayfair/hypernova-php": "^2.1"
+    }
+}
